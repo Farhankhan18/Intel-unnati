@@ -49,3 +49,6 @@ Demonstration Video (Placeholder for actual link)
 Contribution
 This project was completed as part of the Intel Unnati Industrial Training program. Contributions and feedback are welcome to further enhance the performance and applicability of GenAI models on Intel hardware.
 
+
+youtube video link for more detailed explanation: https://youtu.be/e-iZ-OiQMl4?si=q6dyi7UwnSWyfv6x
+
